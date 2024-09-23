@@ -20,3 +20,5 @@ to_geojson([iso], "out.geojson")
 | Walking | 4.5 |
 | Cycling | 16.0 |
 | Driving | 35.0 |
+
+<!-- 2024-09 -->
